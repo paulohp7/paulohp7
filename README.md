@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Paulo Henrique | @paulohp7
+- 👋 Hi, I’m Paulo Henrique
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Typescript
 - 💞️ I’m looking to collaborate on Web Systems
