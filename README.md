@@ -1,9 +1,6 @@
 - 👋 Hi, I’m Paulo Henrique
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Typescript
-- 💞️ I’m looking to collaborate on Web Systems
 - 📫 How to reach me 
-  - Linkedin: https://www.linkedin.com/in/paulo-henrique-pereira/ 
+  - [Linkedin](https://www.linkedin.com/in/paulo-henrique-pereira/) 
   - Gmail: ph.pereira.7@gmail.com
 
 <!---
