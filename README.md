@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paulo Henrique
-- 📫 How to reach me 
-  - [Linkedin](https://www.linkedin.com/in/paulo-henrique-pereira/) 
+- 📫 How to reach me
+  - <a href="https://www.linkedin.com/in/paulo-henrique-pereira/" target="_blank">Linkedin</a>  
   - Gmail: ph.pereira.7@gmail.com
 
 <!---
