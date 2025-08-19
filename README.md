@@ -1,6 +1,6 @@
 - Hi, I’m Paulo Henrique
 - I developed a Flutter project as my final graduation project. -> [Fatec Problemáticas](https://github.com/paulohp7/fatec_problematicas)
-- Spring Boot Java 21 project -> [DeliveryAPI](https://github.com/paulohp7/delivery-api-Paulo-Henrique-Pereira)
+- Web Application with Spring Boot / Java 21 -> [DeliveryAPI](https://github.com/paulohp7/delivery-api-Paulo-Henrique-Pereira)
   
 - 📫 How to reach me
   - <a href="https://www.linkedin.com/in/paulo-henrique-pereira/" target="_blank">Linkedin</a>  
